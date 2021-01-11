@@ -1,5 +1,6 @@
 ![Muritavo Status](https://github-readme-stats.vercel.app/api?username=muritavo&show_icons=true)
 
+![Top techs](https://github-readme-stats.vercel.app/api/top-langs/?username=muritavo&layout=compact)
 <!--
 **Muritavo/muritavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
