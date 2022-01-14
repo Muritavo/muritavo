@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 ## Some projects I'm proud of:
 
-[Constantly evolving my own set of webpack configuration. The highlight here is that every implementation is associated with a requirement that is tested](https://github.com/Muritavo/webpack-microfrontend-scripts)
+[Constantly evolving my own set of webpack configuration.<br>    **The highlight here is that every implementation is associated with a requirement that is tested**](https://github.com/Muritavo/webpack-microfrontend-scripts)
 
-[Built a simple CLI for creating components. The highlight here is that I'm using the Typescript Core Compiler for guaranteeing that every possible combination works](https://github.com/Muritavo/react-mini-toolkit)
+[Built a simple CLI for creating components.<br>    **The highlight here is that I'm using the Typescript Core Compiler for guaranteeing that every possible combination works**](https://github.com/Muritavo/react-mini-toolkit)
